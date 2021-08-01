@@ -14,6 +14,7 @@ interface ComponentLoaderInterface { <br>
 
 **TS:**  
 `import { MyComponent } from '../my-component/my-component.component';`  
+`import { ComponentLoaderInput, ComponentLoaderInterface } from '../component-loader/component-loader.component';`  
 ...  
 
 `export class AppComponent implements OnInit {`  
